@@ -1,0 +1,39 @@
+body{
+	margin:0;
+	padding:0;
+	background-image:url('https://www.pixelstalk.net/wp-content/uploads/2016/03/Free-Dark-Blue-Wallpaper-High-Quality-download.png');
+}
+.form-div{
+	margin:5% auto;
+	border-top:15px groove #92E0F3;
+	border-bottom:15px groove #92E0F3;
+}
+.form-div h1{
+	font-size:3.5em;
+	color:#9de0f0;
+	margin:2% 0;
+	font-weight: 700;
+}
+.form-div label{
+	font-size:2em;
+	color:#B9E9F5;
+	font-family: serif;
+	font-weight: 500;
+	margin:2% 0;
+}
+
+.form-div input[type="submit"]{
+	margin:2% 0;
+	font-size:1.5em;
+	font-weight:660;
+}
+.form-div p{
+	font-size:1em;
+	color: #fff;
+}
+.form-div a{
+	font-size:1em;
+}
+.form-div a:hover{
+	color:#f0f;
+}
